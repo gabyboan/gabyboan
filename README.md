@@ -4,6 +4,8 @@ Estoy construyendo un ecosistema de aplicaciones conectadas a Supabase para
 digitalizar procesos administrativos, gestionar personal y automatizar flujos
 internos en un entorno hospitalario.
 
+Actualmente desempeno mis funciones en el Hospital Escuela de Salud Mental.
+
 Soy estudiante de la Licenciatura en Sistemas de Informacion en UADER, sede Oro
 Verde, Facultad de Ciencia y Tecnologia (FCyT).
 
